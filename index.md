@@ -461,11 +461,13 @@ that? 🙂
 
 ##### You said:
 
-K, we're gonna back up a bit. \--- > Belonging ... it can never be fully
-possessed. Nothing can be possessed. It was a useful concept when we were
-evolving and resources had to be allocated to support that evolution. Access
-to resources were not a certainty. It is a measure of how civilized we are
-that it could be more certain and it is not.
+K, we're gonna back up a bit. 
+
+---  
+
+> Belonging ... it can never be fully possessed.
+
+Nothing can be possessed. It was a useful concept when we were evolving and resources had to be allocated to support that evolution. Access to resources \[was\] not a certainty. It is a measure of how civilized we are that it could be more certain \[now\][^1] and it is not.
 
 ###### ChatGPT said:
 
