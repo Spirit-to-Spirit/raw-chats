@@ -89,7 +89,7 @@ Where do you want the current to carry us? 🙂
 ##### You said:
 
 Boundaries. 
-The places where there are resistances to, \[awareness of\][^1], or acceptances of,
+The places where there are resistances to, \[awareness of\]<sup>+</sup>, or acceptances of,
 coupling from other processes that would alter our {resonance, equilibrium,
 perceived state}. Note this can physical, intellectual and/or emotional. For
 people the physical is relatively well-defined, as near our skin. I cannot
